@@ -1,1 +1,1 @@
-# Personal website showcasing my professional information.
+# Personal website showcasing my professional information
