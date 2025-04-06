@@ -21,6 +21,10 @@ This is my personal portfolio website that demonstrates my growth as a programme
 | HTML5     | GitHub Pages| Git             |
 | CSS3      | Netlify     | GitHub          |
 
+**HTML5**: The foundation for building the structure of the site.  
+**CSS3**: Used to style the site and make it responsive and visually appealing.  
+**Git**: Used for tracking changes and managing code effectively.
+
 ## ✨ Features
 
 - ✅ Clean, responsive user interface
