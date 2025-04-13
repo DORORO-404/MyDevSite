@@ -38,8 +38,9 @@ This is my personal portfolio website that demonstrates my growth as a programme
 ```bash
 git clone https://github.com/yourusername/mydevsite.git
 cd mydevsite
-Open the index.html file in your browser to view the site.
 ```
+
+Open the index.html file in your browser to view the site.
 
 ## License
 
@@ -54,7 +55,7 @@ Portfolio: https://dororo-404.netlify.app
 
 If you want to get in touch, feel free to reach out via social media accounts!
 GitHub: https://github.com/DORORO-404
-Twitter: @DORORO__404
+Twitter: https://x.com/DORORO__404
 
 ## 📁 Project Structure
 
